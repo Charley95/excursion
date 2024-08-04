@@ -28,3 +28,8 @@ a {
     color: gray;
     font-size: 21px;
 }
+footer {
+    color: gray;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    text-align: right;
+}
